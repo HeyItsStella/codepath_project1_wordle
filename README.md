@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://i.imgur.com/XxlwGs5.gif
+https://imgur.com/a/YRS0LQK.gif
 GIF created with [Kap](https://getkap.co/)
 
 
