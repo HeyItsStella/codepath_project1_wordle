@@ -1,4 +1,4 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *IOS Wordle*
 
 Submitted by: Stella Chen
 
